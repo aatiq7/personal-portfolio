@@ -1,0 +1,213 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+
+
+/* header-section start.......................... */
+
+.header-section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.half-header{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 100px;
+}
+.half-header h2{
+    margin: 0px;
+    padding: 0px;
+}
+.name-highlight{
+    color: #E64680;
+}
+.half-header p{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.half-header img{
+    width: 100%;
+}
+.about-myself{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.social-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #E64992, #E64475);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+
+/* header-section finish.......................... */
+
+
+/* biography-section start.......................... */
+
+.biography-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.half-biography{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 100px;
+}
+.half-biography h2{
+    margin: 0px;
+    padding: 0px;
+}
+.half-biography img{
+    width: 100%;
+}
+.half-biography p{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.about-myself2{
+    margin-top: 200px;
+}
+.biography-img{
+    margin-left: 100px;
+}
+
+/* biography-section finish.......................... */
+
+
+/* team-section start.......................... */
+
+.team-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.team-section h2{
+    text-align: center;
+    padding-top: 75px;
+}
+.team-member{
+    width: 26%;
+    float: left;
+    margin-left: 30px;
+    padding-top: 40px;
+    text-align: center;
+}
+.team-member p{
+    font-size: 13px;
+    line-height: 0px;
+}
+.team-member img{
+    width: 100%;
+    padding-top: 20px;
+}
+.left-member{
+    margin-left: 120px;
+}
+
+/* team-section finish.......................... */
+
+
+/* work-section start.......................... */
+
+.work-section{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.work-section h2{
+    text-align: center;
+    padding-top: 75px;
+}
+.latest-work{
+    width: 26%;
+    float: left;
+    margin-left: 30px;
+    padding-top: 40px;
+}
+.latest-work img{
+    width: 100%;
+    padding-top: 20px;
+}
+.left-work{
+    margin-left: 120px;
+}
+
+/* work-section finish.......................... */
+
+
+/* review-section start.......................... */
+
+.review-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 550px;
+}
+.review-section h2{
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.review-section h3{
+    line-height: 0px;
+}
+.review-section h5{
+    font-size: 15px;
+    color: #A2A2A2;
+    padding-bottom: 20px;
+    line-height: 5px;
+}
+.review-section > p{
+    font-size: 18px;
+    color: #424242;
+    line-height: 15px;
+}
+.contact-me{
+    width: 700px;
+    background-image: linear-gradient(45deg, #E64992, #E64475);
+    margin-top: 70px;
+    margin-left: 325px;
+    padding: 35px 10px 60px 10px;
+    border-radius: 10px;
+}
+.contact-me p{
+    color: white;
+    font-size: 15px;
+}
+.contact-me h3{
+    color: white;
+    font-size: 25px;
+}
+
+
+/* review-section finish.......................... */
+
+
+/* footer-section start.......................... */
+
+footer p{
+    text-align: center;
+    font-size: 13px;
+}
+
+/* footer-section finish.......................... */
